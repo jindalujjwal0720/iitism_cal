@@ -1,3 +1,4 @@
+import assets from "@/config/assets";
 import { useFilters } from "@/providers/filters";
 import { ShiftType, WorkingDayAdjustment } from "@/types";
 import { useEffect, useState } from "react";
@@ -24,7 +25,7 @@ export const useExtraWorkingDays = () => {
     if (!session || !semester) return;
     setIsLoading(true);
 
-    const file = `${session}-${semester}-extra-working-days.json`;
+    const file = `${session}/${semester}/extra-working-days.json`;
     const abortController = new AbortController();
 
     // check cache
@@ -35,7 +36,7 @@ export const useExtraWorkingDays = () => {
       return;
     }
 
-    fetch(`/data/${file}`, {
+    fetch(`${assets.baseUrl}/${file}`, {
       signal: abortController.signal,
     })
       .then((response) => response.json())

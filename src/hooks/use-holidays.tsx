@@ -1,3 +1,4 @@
+import assets from "@/config/assets";
 import { useFilters } from "@/providers/filters";
 import { Holiday, ShiftType } from "@/types";
 import { parse } from "date-fns";
@@ -27,7 +28,7 @@ export const useHolidays = () => {
     if (!session) return;
     setIsLoading(true);
 
-    const file = `${session}-holidays.json`;
+    const file = `${session}/holidays.json`;
     const abortController = new AbortController();
 
     // check cache
@@ -38,7 +39,7 @@ export const useHolidays = () => {
       return;
     }
 
-    fetch(`/data/${file}`, { signal: abortController.signal })
+    fetch(`${assets.baseUrl}/${file}`, { signal: abortController.signal })
       .then((response) => response.json())
       .then((data) => {
         const $holidays = data.map(parseHoliday);

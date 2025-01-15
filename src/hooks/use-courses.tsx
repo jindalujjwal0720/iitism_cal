@@ -1,6 +1,7 @@
 import { useFilters } from "@/providers/filters";
 import { useEffect, useState } from "react";
 import { Course } from "@/types";
+import assets from "@/config/assets";
 
 const getAppropriateTime = (time: string) => {
   // if time is < 8, it is in the evening
@@ -49,7 +50,7 @@ export const useCourses = () => {
 
     setIsLoading(true);
 
-    const file = `${session}-${semester}-${department}-courses.json`;
+    const file = `${session}/${semester}/${department}-courses.json`;
     const abortController = new AbortController();
 
     // check cache
@@ -60,7 +61,7 @@ export const useCourses = () => {
       return;
     }
 
-    fetch(`/data/${file}`, { signal: abortController.signal })
+    fetch(`${assets.baseUrl}/${file}`, { signal: abortController.signal })
       .then((response) => response.json())
       .then((data) => {
         const $courses = data.map(parseCourse);
