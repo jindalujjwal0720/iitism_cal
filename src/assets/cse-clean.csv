@@ -1,0 +1,60 @@
+Sl No.,Course,Instructor name,Department,Programm,Branch/Semester/Section,Offered L-T-P,Course Name,Day,Time,Venue
+1,CSC206,Prasanta K. Jana,cse,b.tech,cse/4/,3-0-0,Algorithm Design & Analysis,Monday,10:00-10:50,NAC Hall
+1,CSC206,Prasanta K. Jana,cse,b.tech,cse/4/,3-0-0,Algorithm Design & Analysis,Tuesday,11:00-11:50,NAC Hall
+1,CSC206,Prasanta K. Jana,cse,b.tech,cse/4/,3-0-0,Algorithm Design & Analysis,Friday,08:00-08:50,NAC Hall
+2,CSC207,Hari  Om,cse,b.tech,cse/4/,3-0-0,Computer Architecture,Monday,11:00-11:50,NAC Hall
+2,CSC207,Hari  Om,cse,b.tech,cse/4/,3-0-0,Computer Architecture,Wednesday,10:00-10:50,NAC Hall
+2,CSC207,Hari  Om,cse,b.tech,cse/4/,3-0-0,Computer Architecture,Friday,10:00-10:50,NAC Hall
+3,CSC208,Ayan  Das,cse,b.tech,cse/4/,3-0-0,Theory of Computation,Tuesday,10:00-10:50,NAC Hall
+3,CSC208,Ayan  Das,cse,b.tech,cse/4/,3-0-0,Theory of Computation,Thursday,09:00-09:50,NAC Hall
+3,CSC208,Ayan  Das,cse,b.tech,cse/4/,3-0-0,Theory of Computation,Friday,11:00-11:50,NAC Hall
+4,CSC209,Annavarapu Chandra Sekhara Rao,cse,b.tech,cse/4/,3-0-0,Operating Systems,Wednesday,11:00-11:50,NAC Hall
+4,CSC209,Annavarapu Chandra Sekhara Rao,cse,b.tech,cse/4/,3-0-0,Operating Systems,Thursday,08:00-08:50,NAC Hall
+4,CSC209,Annavarapu Chandra Sekhara Rao,cse,b.tech,cse/4/,3-0-0,Operating Systems,Friday,09:00-09:50,NAC Hall
+5,CSC210,Pranav  Bisht,cse,b.tech,cse/4/,0-0-2,Algorithm Design & Analysis Lab,Monday,04:00-04:50,NLHC Computer Lab - III
+5,CSC210,Pranav  Bisht,cse,b.tech,cse/4/,0-0-2,Algorithm Design & Analysis Lab,Monday,03:00-03:50,NLHC Computer Lab - I
+6,CSC211,Annavarapu Chandra Sekhara Rao,cse,b.tech,cse/4/,0-0-2,Operating Systems Lab,Tuesday,04:00-04:50,NLHC Computer Lab - III
+6,CSC211,Annavarapu Chandra Sekhara Rao,cse,b.tech,cse/4/,0-0-2,Operating Systems Lab,Tuesday,03:00-03:50,NLHC Computer Lab - III
+8,CSC305,Chiranjeev  Kumar,cse,b.tech,cse/6/,3-0-0,Computer Networks,Monday,03:00-03:50,NAC Hall
+8,CSC305,Chiranjeev  Kumar,cse,b.tech,cse/6/,3-0-0,Computer Networks,Wednesday,03:00-03:50,NAC Hall
+8,CSC305,Chiranjeev  Kumar,cse,b.tech,cse/6/,3-0-0,Computer Networks,Thursday,03:00-03:50,NAC Hall
+9,CSC306,Saurabh  Srivastava,cse,b.tech,cse/6/,3-0-0,Software Engineering,Tuesday,03:00-03:50,NAC Hall
+9,CSC306,Saurabh  Srivastava,cse,b.tech,cse/6/,3-0-0,Software Engineering,Wednesday,04:00-04:50,NAC Hall
+9,CSC306,Saurabh  Srivastava,cse,b.tech,cse/6/,3-0-0,Software Engineering,Friday,03:00-03:50,NAC Hall
+10,CSC307,Nikhil Tripathi,cse,b.tech,cse/6/,0-0-2,Computer Networks Lab,Friday,10:00-10:50,NLHC Computer Lab - III
+10,CSC307,Nikhil Tripathi,cse,b.tech,cse/6/,0-0-2,Computer Networks Lab,Friday,09:00-09:50,NLHC Computer Lab - I
+11,CSC308,Saurabh  Srivastava,cse,b.tech,cse/6/,0-0-2,Software Engineering Lab,Thursday,10:00-10:50,NLHC Computer Lab - III
+11,CSC308,Saurabh  Srivastava,cse,b.tech,cse/6/,0-0-2,Software Engineering Lab,Thursday,09:00-09:50,NLHC Computer Lab - I
+12,CSO302,Pranav  Bisht,cse,b.tech,cse/6/,3-0-0,Graph Theory,Tuesday,04:00-04:50,NAC Hall
+12,CSO302,Pranav  Bisht,cse,b.tech,cse/6/,3-0-0,Graph Theory,Thursday,05:00-05:50,NAC Hall
+12,CSO302,Pranav  Bisht,cse,b.tech,cse/6/,3-0-0,Graph Theory,Friday,04:00-04:50,NAC Hall
+13,CSO403,Rajendra  Pamula,cse,b.tech,cse/6/,3-0-0,Internet Technology,Monday,05:00-05:50,NAC Hall
+13,CSO403,Rajendra  Pamula,cse,b.tech,cse/6/,3-0-0,Internet Technology,Thursday,04:00-04:50,NAC Hall
+13,CSO403,Rajendra  Pamula,cse,b.tech,cse/6/,3-0-0,Internet Technology,Friday,05:00-05:50,NAC Hall
+14,CSO506,Arup Kumar Pal,cse,b.tech,cse/6/,3-0-0,Principles of Blockchain Technologies,Monday,04:00-04:50,NAC Hall
+14,CSO506,Arup Kumar Pal,cse,b.tech,cse/6/,3-0-0,Principles of Blockchain Technologies,Tuesday,05:00-05:50,NAC Hall
+14,CSO506,Arup Kumar Pal,cse,b.tech,cse/6/,3-0-0,Principles of Blockchain Technologies,Wednesday,05:00-05:50,NAC Hall
+15,CSD401,Subhrangsu  Mandal,cse,b.tech,cse/8/,3-0-0,Advanced Algorithms,Monday,11:00-11:50,LC-II-G8
+15,CSD401,Subhrangsu  Mandal,cse,b.tech,cse/8/,3-0-0,Advanced Algorithms,Thursday,11:00-11:50,LC-II-G8
+15,CSD401,Subhrangsu  Mandal,cse,b.tech,cse/8/,3-0-0,Advanced Algorithms,Friday,11:00-11:50,LC-II-G8
+16,CSD502,Dharavath  Ramesh,cse,b.tech,cse/8/,3-0-0,Cloud Computing,Tuesday,11:00-11:50,LC-II-G8
+16,CSD502,Dharavath  Ramesh,cse,b.tech,cse/8/,3-0-0,Cloud Computing,Thursday,10:00-10:50,LC-II-G8
+16,CSD502,Dharavath  Ramesh,cse,b.tech,cse/8/,3-0-0,Cloud Computing,Friday,10:00-10:50,LC-II-G8
+17,CSD513,Tarachand  Amgoth,cse,b.tech,cse/8/,3-0-0,Internet of Things,Monday,11:00-11:50,LC-II-G7
+17,CSD513,Tarachand  Amgoth,cse,b.tech,cse/8/,3-0-0,Internet of Things,Thursday,11:00-11:50,LC-II-G7
+17,CSD513,Tarachand  Amgoth,cse,b.tech,cse/8/,3-0-0,Internet of Things,Friday,11:00-11:50,LC-II-G7
+18,CSD521,Sachin  Tripathi,cse,b.tech,cse/8/,3-0-0,Wireless Networks,Tuesday,11:00-11:50,LC-II-G7
+18,CSD521,Sachin  Tripathi,cse,b.tech,cse/8/,3-0-0,Wireless Networks,Thursday,10:00-10:50,LC-II-G7
+18,CSD521,Sachin  Tripathi,cse,b.tech,cse/8/,3-0-0,Wireless Networks,Friday,10:00-10:50,LC-II-G7
+19,CSO503,Prasanta K. Jana,cse,b.tech,cse/8/,3-0-0,Data Mining,Monday,12:00-12:50,LC-II-G8
+19,CSO503,Prasanta K. Jana,cse,b.tech,cse/8/,3-0-0,Data Mining,Tuesday,12:00-12:50,LC-II-G8
+19,CSO503,Prasanta K. Jana,cse,b.tech,cse/8/,3-0-0,Data Mining,Wednesday,12:00-12:50,LC-II-G8
+20,CSO508,Saurabh  Srivastava,cse,b.tech,cse/8/,3-0-0,Building Software Systems,Wednesday,02:00-02:50,LC-II-G7
+20,CSO508,Saurabh  Srivastava,cse,b.tech,cse/8/,3-0-0,Building Software Systems,Thursday,02:00-02:50,LC-II-G7
+20,CSO508,Saurabh  Srivastava,cse,b.tech,cse/8/,3-0-0,Building Software Systems,Friday,02:00-02:50,LC-II-G7
+21,CSC502,Dharavath  Ramesh,cse,jrf,cse/2/,3-0-0,Advanced DBMS,Monday,02:00-02:50,
+21,CSC502,Dharavath  Ramesh,cse,jrf,cse/2/,3-0-0,Advanced DBMS,Tuesday,03:00-03:50,
+21,CSC502,Dharavath  Ramesh,cse,jrf,cse/2/,3-0-0,Advanced DBMS,Thursday,02:00-02:50,
+22,CSC516,Pranay Kumar Saha,cse,jrf,cse/2/,3-0-0,Research Methodology,Wednesday,03:00-03:50,
+22,CSC516,Pranay Kumar Saha,cse,jrf,cse/2/,3-0-0,Research Methodology,Thursday,04:00-04:50,
+22,CSC516,Pranay Kumar Saha,cse,jrf,cse/2/,3-0-0,Research Methodology,Friday,05:00-05:50,
