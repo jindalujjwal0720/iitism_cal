@@ -8,7 +8,7 @@ export const Tables = () => {
   const { events } = useCalendarEvents();
 
   return (
-    <Tabs defaultValue="schedule" className="w-full">
+    <Tabs defaultValue="schedule" className="w-full overflow-x-auto">
       <TabsList>
         <TabsTrigger value="schedule">
           Class schedule
