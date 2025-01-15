@@ -21,13 +21,13 @@ export const Tables = () => {
         <TabsTrigger value="extra-working-days">Extra working days</TabsTrigger>
         <TabsTrigger value="holidays">Holidays</TabsTrigger>
       </TabsList>
-      <TabsContent value="schedule">
+      <TabsContent value="schedule" className="w-max">
         <ClassScheduleTable />
       </TabsContent>
-      <TabsContent value="extra-working-days">
+      <TabsContent value="extra-working-days" className="w-max">
         <ExtraWorkingDaysTable />
       </TabsContent>
-      <TabsContent value="holidays">
+      <TabsContent value="holidays" className="w-max">
         <HolidaysTable />
       </TabsContent>
     </Tabs>
