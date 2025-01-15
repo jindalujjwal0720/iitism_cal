@@ -1,0 +1,4 @@
+*.tsbuildinfo
+bundle-visualization.html
+node_modules/
+dist/

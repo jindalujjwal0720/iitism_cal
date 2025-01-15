@@ -1,0 +1,538 @@
+[
+  {
+    "Sl No.": "1",
+    "Course": "CSC206(Algorithm Design & Analysis)",
+    "Instructor name": "Prasanta K. Jana",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/4/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Monday",
+        "time": "10:00-10:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Tuesday",
+        "time": "11:00-11:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Friday",
+        "time": "08:00-08:50",
+        "venue": "NAC Hall"
+      }
+    ]
+  },
+  {
+    "Sl No.": "2",
+    "Course": "CSC207(Computer Architecture)",
+    "Instructor name": "Hari  Om",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/4/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Monday",
+        "time": "11:00-11:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Wednesday",
+        "time": "10:00-10:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Friday",
+        "time": "10:00-10:50",
+        "venue": "NAC Hall"
+      }
+    ]
+  },
+  {
+    "Sl No.": "3",
+    "Course": "CSC208(Theory of Computation)",
+    "Instructor name": "Ayan  Das",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/4/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Tuesday",
+        "time": "10:00-10:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Thursday",
+        "time": "09:00-09:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Friday",
+        "time": "11:00-11:50",
+        "venue": "NAC Hall"
+      }
+    ]
+  },
+  {
+    "Sl No.": "4",
+    "Course": "CSC209(Operating Systems)",
+    "Instructor name": "Annavarapu Chandra Sekhara Rao",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/4/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Wednesday",
+        "time": "11:00-11:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Thursday",
+        "time": "08:00-08:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Friday",
+        "time": "09:00-09:50",
+        "venue": "NAC Hall"
+      }
+    ]
+  },
+  {
+    "Sl No.": "5",
+    "Course": "CSC210(Algorithm Design & Analysis Lab)",
+    "Instructor name": "Pranav  Bisht",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/4/",
+    "Offered L-T-P": "0-0-2",
+    "Time Table": [
+      {
+        "day": "Monday",
+        "time": "04:00-04:50",
+        "venue": "NLHC Computer Lab - III"
+      },
+      {
+        "day": "Monday",
+        "time": "03:00-03:50",
+        "venue": "NLHC Computer Lab - I"
+      }
+    ]
+  },
+  {
+    "Sl No.": "6",
+    "Course": "CSC211(Operating Systems Lab)",
+    "Instructor name": "Annavarapu Chandra Sekhara Rao",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/4/",
+    "Offered L-T-P": "0-0-2",
+    "Time Table": [
+      {
+        "day": "Tuesday",
+        "time": "04:00-04:50",
+        "venue": "NLHC Computer Lab - III"
+      },
+      {
+        "day": "Tuesday",
+        "time": "03:00-03:50",
+        "venue": "NLHC Computer Lab - III"
+      }
+    ]
+  },
+  {
+    "Sl No.": "7",
+    "Course": "CSE202(Object Oriented Programming)",
+    "Instructor name": "Nikhil Tripathi",
+    "Department": "Pranav  Bisht",
+    "Programm": "Tanusree  Kaibartta",
+    "Branch/Semester/Section": "cse",
+    "Offered L-T-P": "b.tech",
+    "Time Table": []
+  },
+  {
+    "Sl No.": "8",
+    "Course": "CSC305(Computer Networks)",
+    "Instructor name": "Chiranjeev  Kumar",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/6/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Monday",
+        "time": "03:00-03:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Wednesday",
+        "time": "03:00-03:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Thursday",
+        "time": "03:00-03:50",
+        "venue": "NAC Hall"
+      }
+    ]
+  },
+  {
+    "Sl No.": "9",
+    "Course": "CSC306(Software Engineering)",
+    "Instructor name": "Saurabh  Srivastava",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/6/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Tuesday",
+        "time": "03:00-03:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Wednesday",
+        "time": "04:00-04:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Friday",
+        "time": "03:00-03:50",
+        "venue": "NAC Hall"
+      }
+    ]
+  },
+  {
+    "Sl No.": "10",
+    "Course": "CSC307(Computer Networks Lab)",
+    "Instructor name": "Nikhil Tripathi",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/6/",
+    "Offered L-T-P": "0-0-2",
+    "Time Table": [
+      {
+        "day": "Friday",
+        "time": "10:00-10:50",
+        "venue": "NLHC Computer Lab - III"
+      },
+      {
+        "day": "Friday",
+        "time": "09:00-09:50",
+        "venue": "NLHC Computer Lab - I"
+      }
+    ]
+  },
+  {
+    "Sl No.": "11",
+    "Course": "CSC308(Software Engineering Lab)",
+    "Instructor name": "Saurabh  Srivastava",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/6/",
+    "Offered L-T-P": "0-0-2",
+    "Time Table": [
+      {
+        "day": "Thursday",
+        "time": "10:00-10:50",
+        "venue": "NLHC Computer Lab - III"
+      },
+      {
+        "day": "Thursday",
+        "time": "09:00-09:50",
+        "venue": "NLHC Computer Lab - I"
+      }
+    ]
+  },
+  {
+    "Sl No.": "12",
+    "Course": "CSO302(Graph Theory)",
+    "Instructor name": "Pranav  Bisht",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/6/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Tuesday",
+        "time": "04:00-04:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Thursday",
+        "time": "05:00-05:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Friday",
+        "time": "04:00-04:50",
+        "venue": "NAC Hall"
+      }
+    ]
+  },
+  {
+    "Sl No.": "13",
+    "Course": "CSO403(Internet Technology)",
+    "Instructor name": "Rajendra  Pamula",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/6/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Monday",
+        "time": "05:00-05:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Thursday",
+        "time": "04:00-04:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Friday",
+        "time": "05:00-05:50",
+        "venue": "NAC Hall"
+      }
+    ]
+  },
+  {
+    "Sl No.": "14",
+    "Course": "CSO506(Principles of Blockchain Technologies)",
+    "Instructor name": "Arup Kumar Pal",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/6/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Monday",
+        "time": "04:00-04:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Tuesday",
+        "time": "05:00-05:50",
+        "venue": "NAC Hall"
+      },
+      {
+        "day": "Wednesday",
+        "time": "05:00-05:50",
+        "venue": "NAC Hall"
+      }
+    ]
+  },
+  {
+    "Sl No.": "15",
+    "Course": "CSD401(Advanced Algorithms)",
+    "Instructor name": "Subhrangsu  Mandal",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/8/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Monday",
+        "time": "11:00-11:50",
+        "venue": "LC-II-G8"
+      },
+      {
+        "day": "Thursday",
+        "time": "11:00-11:50",
+        "venue": "LC-II-G8"
+      },
+      {
+        "day": "Friday",
+        "time": "11:00-11:50",
+        "venue": "LC-II-G8"
+      }
+    ]
+  },
+  {
+    "Sl No.": "16",
+    "Course": "CSD502(Cloud Computing)",
+    "Instructor name": "Dharavath  Ramesh",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/8/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Tuesday",
+        "time": "11:00-11:50",
+        "venue": "LC-II-G8"
+      },
+      {
+        "day": "Thursday",
+        "time": "10:00-10:50",
+        "venue": "LC-II-G8"
+      },
+      {
+        "day": "Friday",
+        "time": "10:00-10:50",
+        "venue": "LC-II-G8"
+      }
+    ]
+  },
+  {
+    "Sl No.": "17",
+    "Course": "CSD513(Internet of Things)",
+    "Instructor name": "Tarachand  Amgoth",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/8/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Monday",
+        "time": "11:00-11:50",
+        "venue": "LC-II-G7"
+      },
+      {
+        "day": "Thursday",
+        "time": "11:00-11:50",
+        "venue": "LC-II-G7"
+      },
+      {
+        "day": "Friday",
+        "time": "11:00-11:50",
+        "venue": "LC-II-G7"
+      }
+    ]
+  },
+  {
+    "Sl No.": "18",
+    "Course": "CSD521(Wireless Networks)",
+    "Instructor name": "Sachin  Tripathi",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/8/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Tuesday",
+        "time": "11:00-11:50",
+        "venue": "LC-II-G7"
+      },
+      {
+        "day": "Thursday",
+        "time": "10:00-10:50",
+        "venue": "LC-II-G7"
+      },
+      {
+        "day": "Friday",
+        "time": "10:00-10:50",
+        "venue": "LC-II-G7"
+      }
+    ]
+  },
+  {
+    "Sl No.": "19",
+    "Course": "CSO503(Data Mining)",
+    "Instructor name": "Prasanta K. Jana",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/8/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Monday",
+        "time": "12:00-12:50",
+        "venue": "LC-II-G8"
+      },
+      {
+        "day": "Tuesday",
+        "time": "12:00-12:50",
+        "venue": "LC-II-G8"
+      },
+      {
+        "day": "Wednesday",
+        "time": "12:00-12:50",
+        "venue": "LC-II-G8"
+      }
+    ]
+  },
+  {
+    "Sl No.": "20",
+    "Course": "CSO508(Building Software Systems)",
+    "Instructor name": "Saurabh  Srivastava",
+    "Department": "cse",
+    "Programm": "b.tech",
+    "Branch/Semester/Section": "cse/8/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Wednesday",
+        "time": "02:00-02:50",
+        "venue": "LC-II-G7"
+      },
+      {
+        "day": "Thursday",
+        "time": "02:00-02:50",
+        "venue": "LC-II-G7"
+      },
+      {
+        "day": "Friday",
+        "time": "02:00-02:50",
+        "venue": "LC-II-G7"
+      }
+    ]
+  },
+  {
+    "Sl No.": "21",
+    "Course": "CSC502(Advanced DBMS)",
+    "Instructor name": "Dharavath  Ramesh",
+    "Department": "cse",
+    "Programm": "jrf",
+    "Branch/Semester/Section": "cse/2/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Monday",
+        "time": "02:00-02:50",
+        "venue": "Unknown"
+      },
+      {
+        "day": "Tuesday",
+        "time": "03:00-03:50",
+        "venue": "Unknown"
+      },
+      {
+        "day": "Thursday",
+        "time": "02:00-02:50",
+        "venue": "Unknown"
+      }
+    ]
+  },
+  {
+    "Sl No.": "22",
+    "Course": "CSC516(Research Methodology)",
+    "Instructor name": "Pranay Kumar Saha",
+    "Department": "cse",
+    "Programm": "jrf",
+    "Branch/Semester/Section": "cse/2/",
+    "Offered L-T-P": "3-0-0",
+    "Time Table": [
+      {
+        "day": "Wednesday",
+        "time": "03:00-03:50",
+        "venue": "Unknown"
+      },
+      {
+        "day": "Thursday",
+        "time": "04:00-04:50",
+        "venue": "Unknown"
+      },
+      {
+        "day": "Friday",
+        "time": "05:00-05:50",
+        "venue": "Unknown"
+      }
+    ]
+  }
+]

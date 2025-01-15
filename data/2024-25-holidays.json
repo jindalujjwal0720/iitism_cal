@@ -1,0 +1,50 @@
+[
+  {
+    "startDate": "2024-12-30",
+    "endDate": "2025-01-01",
+    "description": "Winter Break",
+    "shift": "FULL"
+  },
+  {
+    "startDate": "2025-01-31",
+    "endDate": "2025-02-02",
+    "description": "Basant III & Srijan",
+    "shift": "FULL"
+  },
+  {
+    "startDate": "2025-02-15",
+    "endDate": "2025-02-23",
+    "description": "Mid Semester Examination",
+    "shift": "FULL"
+  },
+  {
+    "startDate": "2025-03-31",
+    "endDate": "2025-03-31",
+    "description": "Id-Ul-Fitr",
+    "shift": "FULL"
+  },
+  {
+    "startDate": "2025-03-13",
+    "endDate": "2025-03-16",
+    "description": "Semester Break",
+    "shift": "FULL"
+  },
+  {
+    "startDate": "2025-04-10",
+    "endDate": "2025-04-10",
+    "description": "Mahavir Jayanti",
+    "shift": "FULL"
+  },
+  {
+    "startDate": "2025-04-18",
+    "endDate": "2025-04-18",
+    "description": "Good Friday",
+    "shift": "FULL"
+  },
+  {
+    "startDate": "2025-04-19",
+    "endDate": "2025-04-30",
+    "description": "End Semester Examination",
+    "shift": "FULL"
+  }
+]
