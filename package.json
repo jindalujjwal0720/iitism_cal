@@ -11,7 +11,9 @@
     "format": "prettier --write \"src/**/*.{js,ts,jsx,tsx}\"",
     "lint:fix": "eslint --fix \"src/**/*.{js,ts,jsx,tsx}\"",
     "preview": "vite preview",
-    "test": "jest --passWithNoTests"
+    "test": "jest --passWithNoTests",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.4",
